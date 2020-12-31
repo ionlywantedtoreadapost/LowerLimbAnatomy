@@ -1,2 +1,2 @@
-# LowerLimbAnatomy
-Ultimate Lower Limb Anatomy
+# UpperLimbAnatomy
+Ultimate Upper Limb Anatomy
